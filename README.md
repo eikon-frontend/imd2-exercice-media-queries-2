@@ -1,4 +1,4 @@
-# Exercice Bootstrap 6
+# Exercice Media Queries 2
 
 ## Installation
 
